@@ -1,6 +1,6 @@
-This a very basic chat bot created with python.
+This is a very basic chatbot created with Python.
 
-- I used openai API to create this chat bot.
-- This bot can answer any basic question like chatgpt.
-- The bot may crash after few time due its load level. 
-- To run the code please download and chnage the API with your onw API. 
+- I used OpenAI API to create this chatbot.
+- This bot can answer any basic question like Chatgpt.
+- The bot may crash after a few times due to its load level. 
+- To run the code please download and change the API with your API. 
